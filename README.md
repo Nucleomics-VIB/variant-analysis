@@ -1,4 +1,4 @@
-# variant_analysis
+# variant-analysis
 basic scripts to perform small variant analysis on a server
 
 # Read mapping
